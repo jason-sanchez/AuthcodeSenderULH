@@ -1,0 +1,24 @@
+﻿----------------------------------------------------
+Server: 10.48.64.5:2207 connected.
+----------------------------------------------------
+
+C:\AuthCodeSender\AuthCodeDirectory\HL7.001 Sent.
+Received: MSH|^~\&|TestApp|F80|Systemax|F80|20080125130256||ACK^O01|2008012513025688101|P|2.3|||||||||MSA|AA|0801031513280001|||||
+
+
+C:\AuthCodeSender\AuthCodeDirectory\HL7.215096 Sent.
+Received: MSH|^~\&|TestApp|F80|Systemax|F80|20080125130256||ACK^O01|2008012513025688101|P|2.3|||||||||MSA|AA|0801031513280001|||||
+
+
+C:\AuthCodeSender\AuthCodeDirectory\HL7.215097 Sent.
+Received: MSH|^~\&|TestApp|F80|Systemax|F80|20080125130256||ACK^O01|2008012513025688101|P|2.3|||||||||MSA|AA|0801031513280001|||||
+
+
+C:\AuthCodeSender\AuthCodeDirectory\HL7.215098 Sent.
+Received: MSH|^~\&|TestApp|F80|Systemax|F80|20080125130256||ACK^O01|2008012513025688101|P|2.3|||||||||MSA|AA|0801031513280001|||||
+
+
+C:\AuthCodeSender\AuthCodeDirectory\HL7.215099 Sent.
+Received: MSH|^~\&|TestApp|F80|Systemax|F80|20080125130256||ACK^O01|2008012513025688101|P|2.3|||||||||MSA|AA|0801031513280001|||||
+
+
